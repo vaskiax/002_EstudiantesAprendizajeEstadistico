@@ -1,2 +1,5 @@
-# 002_AprendizajeEstadistico
-Curso de aprendizaje estadistico del instituo de fisica de la universidad de antioquia
+
+
+# Curso de aprendizaje estadístico.
+
+[Sitio Web](https://cienciadatosudea.github.io/002_SitioWebAprendizajeEstadistico/)
